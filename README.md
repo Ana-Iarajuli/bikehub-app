@@ -1,12 +1,12 @@
 # Nearby Bikes 🏍️🚲
 
-A simple Single Page Application (SPA) built with **React** to search for nearby bikes using the [Bike Index API](https://bikeindex.org/).
+A simple SPA built with **React** to search for nearby bikes using the [Bike Index API](https://bikeindex.org/).
 
 ---
 
 ## 📌 **Features**
 
-✅ 3 Pages (Home, Bikes, About)  
+✅ 3 Pages 
 ✅ Functional React components only  
 ✅ **React Router** for page navigation  
 ✅ API integration with **Bike Index API** (fetch nearby bikes by city)  
@@ -14,15 +14,13 @@ A simple Single Page Application (SPA) built with **React** to search for nearby
 ✅ **React Hooks** (`useState`, `useEffect`) throughout  
 ✅ Theme toggle (**light/dark mode**)  
 ✅ Local storage / session storage to persist user theme  
-✅ Fully responsive (tested in Chrome Dev Tools)  
 ✅ **SCSS** for styling  
-✅ Proper project structure: `components/`, `pages/`, `hooks/`, `styles/`  
 
 ---
 
 ## ⚙️ **Tech Stack**
 
-- **React** (Vite or CRA)
+- **React** 
 - **React Router DOM**
 - **Axios** for API calls
 - **SCSS** for styling
@@ -38,18 +36,19 @@ A simple Single Page Application (SPA) built with **React** to search for nearby
 ```bash
 git clone https://github.com/Ana-iarajuli/bikehub-app.git
 cd bikehub-app
-
+```
 
 2️⃣ **Install dependencies**
 ```bash
 npm install
-
+```
 
 3️⃣ **Start the dev server**
 ```bash
 npm run dev  
 # OR
 npm start 
+```
 
 4️⃣ **Open your browser**
 http://localhost:3000 (CRA)
