@@ -38,9 +38,9 @@ git clone https://github.com/Ana-iarajuli/bikehub-app.git
 cd bikehub-app
 ```
 
-2️⃣ **Install dependencies**
+2️⃣ **Install necessary tools**
 ```bash
-npm install
+npm install react react-dom react-router-dom axios sass
 ```
 
 3️⃣ **Start the dev server**
