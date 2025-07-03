@@ -36,18 +36,19 @@ A simple SPA built with **React** to search for nearby bikes using the [Bike Ind
 ```bash
 git clone https://github.com/Ana-iarajuli/bikehub-app.git
 cd bikehub-app
-
+```
 
 2️⃣ **Install dependencies**
 ```bash
 npm install
-
+```
 
 3️⃣ **Start the dev server**
 ```bash
 npm run dev  
 # OR
 npm start 
+```
 
 4️⃣ **Open your browser**
 http://localhost:3000 (CRA)
